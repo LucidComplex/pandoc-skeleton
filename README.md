@@ -1,6 +1,14 @@
 # Pandoc Skeleton
-A simple pandoc skeleton. Makes use of practicaltypography.com style suggestions
-by default.
+A simple pandoc skeleton. Makes use of
+http://practicaltypography.com/research-papers.html style suggestions by
+default.
+
+## Requirements
+
+Requires
+- pandoc
+- xelatex
+- make
 
 ## Making PDF
 
