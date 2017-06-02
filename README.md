@@ -9,6 +9,7 @@ Requires
 - pandoc
 - xelatex
 - make
+- Adobe Source Serif font
 
 ## Making PDF
 
